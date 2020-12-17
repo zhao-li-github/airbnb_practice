@@ -1,8 +1,9 @@
 # airbnb_practice
 ## Project 1. Santa Monica Airbnb analysis
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists (Nanodegree Program).
-1. Jupyter Notebook "LA_airbnb_analysis_1.ipynb" was used for this analysis
-2. Original dataset "listings.csv" was downloaded from http://insideairbnb.com/get-the-data.html  
+1. Jupyter Notebook "LA_airbnb_analysis_1_revised.ipynb" was used for this analysis
+2. Jupyter Notebook "LA_airbnb_analysis_1.ipynb" was the original notebook (before revision)
+3. Original dataset "listings.csv" was downloaded from http://insideairbnb.com/get-the-data.html  
 
 In this project, I was looking for the answers to the following three questions:
 1. How the price/availability relate to the room type and bath type?
