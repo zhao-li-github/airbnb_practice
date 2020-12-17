@@ -18,5 +18,5 @@ Libraries used in this project includes:
 6. Collections
 7. Math
 
-Acknowledgement:
+Acknowledgement:  
 This project follows the CRISP-DM process taught in the Udacity Data Scientists Nanodegree Program.
