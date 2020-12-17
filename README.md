@@ -17,3 +17,6 @@ Libraries used in this project includes:
 5. Matplotlib
 6. Collections
 7. Math
+
+Acknowledgement:
+This project follows the CRISP-DM process taught in the Udacity Data Scientists Nanodegree Program.
